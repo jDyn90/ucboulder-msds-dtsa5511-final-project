@@ -1,1 +1,6 @@
-# ucboulder-msds-dtsa5511-final-project
+# Detecting Fake Labubus with CNNs
+Labubus - do you know them? They are dolls which have exploded in popularity recently, thanks to celebrity and influencer marketing that's gone viral on social media. With their rapid rise in popularity, many people are participating in the secondary market of buying & reselling labubus and making a good profit. Since the supply is far under the demand for these products worldwide, many people are looking to buy from resellers for more than their original sell price.
+
+Unfortunately, this means many bad actors are manufacturing and selling fake labubus on online marketplaces, while advertising them as real genuine products. The end result is consumers paying hard-earned money for products that are worth far less than they think, and being scammed.
+
+This project is aimed at building a CNN deep learning model that can flag fake labubus based on images. This model, once built, could be implemented in a web-based tool that end users can upload images to in order to see if a labubu is fake. Or, it can be embedded into an online marketplace and scan all images when resellers are creating listings and uploading their images. An image with high probability of being fake can be kicked back, or a warning can be given to prospective buyers.
